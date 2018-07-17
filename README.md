@@ -1,4 +1,4 @@
-# blog-nuxt
+# form-nuxt
 
 > My test blog
 
